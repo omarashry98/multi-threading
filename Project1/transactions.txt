@@ -1,0 +1,184 @@
+Depositing Agent DT4 issued a deposit of $459 at: 2022-06-05 17:53:35.843 EST
+
+	Withdrawal Agent WT2 issued a withdrawal of $78 at: 2022-06-05 17:53:35.866 EST
+
+Depositing Agent DT2 issued a deposit of $390 at: 2022-06-05 17:53:35.967 EST
+
+Depositing Agent DT1 issued a deposit of $358 at: 2022-06-05 17:53:35.979 EST
+
+	Withdrawal Agent WT3 issued a withdrawal of $93 at: 2022-06-05 17:53:35.985 EST
+
+Depositing Agent DT3 issued a deposit of $404 at: 2022-06-05 17:53:36.03 EST
+
+Depositing Agent DT3 issued a deposit of $413 at: 2022-06-05 17:53:36.125 EST
+
+	Withdrawal Agent WT6 issued a withdrawal of $91 at: 2022-06-05 17:53:36.167 EST
+
+	Withdrawal Agent WT9 issued a withdrawal of $84 at: 2022-06-05 17:53:36.194 EST
+
+	Withdrawal Agent WT1 issued a withdrawal of $92 at: 2022-06-05 17:53:36.213 EST
+
+Depositing Agent DT3 issued a deposit of $354 at: 2022-06-05 17:53:36.251 EST
+
+	Withdrawal Agent WT0 issued a withdrawal of $80 at: 2022-06-05 17:53:36.253 EST
+
+	Withdrawal Agent WT1 issued a withdrawal of $87 at: 2022-06-05 17:53:36.254 EST
+
+	Withdrawal Agent WT5 issued a withdrawal of $99 at: 2022-06-05 17:53:36.502 EST
+
+	Withdrawal Agent WT9 issued a withdrawal of $81 at: 2022-06-05 17:53:36.578 EST
+
+	Withdrawal Agent WT0 issued a withdrawal of $89 at: 2022-06-05 17:53:36.597 EST
+
+Depositing Agent DT1 issued a deposit of $427 at: 2022-06-05 17:53:36.798 EST
+
+	Withdrawal Agent WT3 issued a withdrawal of $97 at: 2022-06-05 17:53:36.909 EST
+
+	Withdrawal Agent WT0 issued a withdrawal of $98 at: 2022-06-05 17:53:37.17 EST
+
+	Withdrawal Agent WT4 issued a withdrawal of $85 at: 2022-06-05 17:53:37.2 EST
+
+	Withdrawal Agent WT6 issued a withdrawal of $96 at: 2022-06-05 17:53:37.388 EST
+
+Depositing Agent DT0 issued a deposit of $486 at: 2022-06-05 17:53:37.41 EST
+
+	Withdrawal Agent WT2 issued a withdrawal of $76 at: 2022-06-05 17:53:37.486 EST
+
+	Withdrawal Agent WT5 issued a withdrawal of $95 at: 2022-06-05 17:53:37.507 EST
+
+	Withdrawal Agent WT7 issued a withdrawal of $94 at: 2022-06-05 17:53:37.59 EST
+
+	Withdrawal Agent WT5 issued a withdrawal of $76 at: 2022-06-05 17:53:37.652 EST
+
+	Withdrawal Agent WT0 issued a withdrawal of $89 at: 2022-06-05 17:53:37.846 EST
+
+Depositing Agent DT4 issued a deposit of $369 at: 2022-06-05 17:53:37.883 EST
+
+	Withdrawal Agent WT1 issued a withdrawal of $88 at: 2022-06-05 17:53:37.892 EST
+
+	Withdrawal Agent WT0 issued a withdrawal of $84 at: 2022-06-05 17:53:37.894 EST
+
+	Withdrawal Agent WT1 issued a withdrawal of $76 at: 2022-06-05 17:53:37.943 EST
+
+Depositing Agent DT4 issued a deposit of $434 at: 2022-06-05 17:53:38.036 EST
+
+	Withdrawal Agent WT3 issued a withdrawal of $83 at: 2022-06-05 17:53:38.102 EST
+
+	Withdrawal Agent WT5 issued a withdrawal of $89 at: 2022-06-05 17:53:38.257 EST
+
+	Withdrawal Agent WT3 issued a withdrawal of $82 at: 2022-06-05 17:53:38.371 EST
+
+	Withdrawal Agent WT5 issued a withdrawal of $93 at: 2022-06-05 17:53:38.409 EST
+
+Depositing Agent DT2 issued a deposit of $366 at: 2022-06-05 17:53:38.559 EST
+
+	Withdrawal Agent WT8 issued a withdrawal of $88 at: 2022-06-05 17:53:38.579 EST
+
+	Withdrawal Agent WT6 issued a withdrawal of $93 at: 2022-06-05 17:53:38.58 EST
+
+Depositing Agent DT3 issued a deposit of $396 at: 2022-06-05 17:53:38.581 EST
+
+	Withdrawal Agent WT2 issued a withdrawal of $89 at: 2022-06-05 17:53:38.626 EST
+
+Depositing Agent DT1 issued a deposit of $355 at: 2022-06-05 17:53:38.674 EST
+
+	Withdrawal Agent WT3 issued a withdrawal of $99 at: 2022-06-05 17:53:38.71 EST
+
+	Withdrawal Agent WT4 issued a withdrawal of $91 at: 2022-06-05 17:53:38.742 EST
+
+Depositing Agent DT2 issued a deposit of $401 at: 2022-06-05 17:53:38.874 EST
+
+	Withdrawal Agent WT9 issued a withdrawal of $78 at: 2022-06-05 17:53:38.88 EST
+
+	Withdrawal Agent WT1 issued a withdrawal of $93 at: 2022-06-05 17:53:38.901 EST
+
+	Withdrawal Agent WT0 issued a withdrawal of $88 at: 2022-06-05 17:53:38.951 EST
+
+	Withdrawal Agent WT3 issued a withdrawal of $77 at: 2022-06-05 17:53:38.974 EST
+
+	Withdrawal Agent WT0 issued a withdrawal of $95 at: 2022-06-05 17:53:39.128 EST
+
+	Withdrawal Agent WT4 issued a withdrawal of $88 at: 2022-06-05 17:53:39.194 EST
+
+Depositing Agent DT0 issued a deposit of $427 at: 2022-06-05 17:53:39.207 EST
+
+	Withdrawal Agent WT8 issued a withdrawal of $91 at: 2022-06-05 17:53:39.218 EST
+
+Depositing Agent DT1 issued a deposit of $437 at: 2022-06-05 17:53:39.558 EST
+
+	Withdrawal Agent WT1 issued a withdrawal of $98 at: 2022-06-05 17:53:39.614 EST
+
+Depositing Agent DT1 issued a deposit of $391 at: 2022-06-05 17:53:39.661 EST
+
+	Withdrawal Agent WT5 issued a withdrawal of $98 at: 2022-06-05 17:53:39.664 EST
+
+Depositing Agent DT0 issued a deposit of $386 at: 2022-06-05 17:53:39.743 EST
+
+	Withdrawal Agent WT9 issued a withdrawal of $85 at: 2022-06-05 17:53:39.842 EST
+
+	Withdrawal Agent WT2 issued a withdrawal of $79 at: 2022-06-05 17:53:39.917 EST
+
+	Withdrawal Agent WT0 issued a withdrawal of $82 at: 2022-06-05 17:53:40.22 EST
+
+Depositing Agent DT0 issued a deposit of $394 at: 2022-06-05 17:53:40.227 EST
+
+	Withdrawal Agent WT8 issued a withdrawal of $97 at: 2022-06-05 17:53:40.284 EST
+
+	Withdrawal Agent WT7 issued a withdrawal of $92 at: 2022-06-05 17:53:40.316 EST
+
+	Withdrawal Agent WT0 issued a withdrawal of $87 at: 2022-06-05 17:53:40.328 EST
+
+	Withdrawal Agent WT5 issued a withdrawal of $99 at: 2022-06-05 17:53:40.448 EST
+
+Depositing Agent DT4 issued a deposit of $364 at: 2022-06-05 17:53:40.46 EST
+
+	Withdrawal Agent WT4 issued a withdrawal of $84 at: 2022-06-05 17:53:40.468 EST
+
+	Withdrawal Agent WT6 issued a withdrawal of $99 at: 2022-06-05 17:53:40.543 EST
+
+	Withdrawal Agent WT0 issued a withdrawal of $84 at: 2022-06-05 17:53:40.548 EST
+
+Depositing Agent DT0 issued a deposit of $430 at: 2022-06-05 17:53:40.926 EST
+
+	Withdrawal Agent WT0 issued a withdrawal of $81 at: 2022-06-05 17:53:40.948 EST
+
+	Withdrawal Agent WT1 issued a withdrawal of $84 at: 2022-06-05 17:53:41.0 EST
+
+	Withdrawal Agent WT8 issued a withdrawal of $86 at: 2022-06-05 17:53:41.045 EST
+
+Depositing Agent DT2 issued a deposit of $365 at: 2022-06-05 17:53:41.145 EST
+
+	Withdrawal Agent WT9 issued a withdrawal of $91 at: 2022-06-05 17:53:41.194 EST
+
+	Withdrawal Agent WT5 issued a withdrawal of $84 at: 2022-06-05 17:53:41.25 EST
+
+	Withdrawal Agent WT1 issued a withdrawal of $90 at: 2022-06-05 17:53:41.399 EST
+
+	Withdrawal Agent WT6 issued a withdrawal of $94 at: 2022-06-05 17:53:41.452 EST
+
+	Withdrawal Agent WT6 issued a withdrawal of $83 at: 2022-06-05 17:53:41.575 EST
+
+Depositing Agent DT0 issued a deposit of $397 at: 2022-06-05 17:53:41.805 EST
+
+	Withdrawal Agent WT4 issued a withdrawal of $98 at: 2022-06-05 17:53:41.807 EST
+
+	Withdrawal Agent WT1 issued a withdrawal of $96 at: 2022-06-05 17:53:41.828 EST
+
+Depositing Agent DT1 issued a deposit of $469 at: 2022-06-05 17:53:41.831 EST
+
+	Withdrawal Agent WT5 issued a withdrawal of $93 at: 2022-06-05 17:53:41.917 EST
+
+	Withdrawal Agent WT0 issued a withdrawal of $87 at: 2022-06-05 17:53:41.965 EST
+
+	Withdrawal Agent WT1 issued a withdrawal of $81 at: 2022-06-05 17:53:41.975 EST
+
+Depositing Agent DT0 issued a deposit of $369 at: 2022-06-05 17:53:41.981 EST
+
+	Withdrawal Agent WT4 issued a withdrawal of $92 at: 2022-06-05 17:53:42.004 EST
+
+	Withdrawal Agent WT2 issued a withdrawal of $77 at: 2022-06-05 17:53:42.024 EST
+
+	Withdrawal Agent WT4 issued a withdrawal of $99 at: 2022-06-05 17:53:42.097 EST
+
+	Withdrawal Agent WT1 issued a withdrawal of $89 at: 2022-06-05 17:53:42.424 EST
+
